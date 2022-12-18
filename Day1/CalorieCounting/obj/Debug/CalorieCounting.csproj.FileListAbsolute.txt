@@ -1,7 +1,6 @@
 C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day1\CalorieCounting\bin\Debug\CalorieCounting.exe.config
 C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day1\CalorieCounting\bin\Debug\CalorieCounting.exe
 C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day1\CalorieCounting\bin\Debug\CalorieCounting.pdb
-C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day1\CalorieCounting\obj\Debug\CalorieCounting.csproj.AssemblyReference.cache
 C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day1\CalorieCounting\obj\Debug\CalorieCounting.csproj.CoreCompileInputs.cache
 C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day1\CalorieCounting\obj\Debug\CalorieCounting.exe
 C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day1\CalorieCounting\obj\Debug\CalorieCounting.pdb
