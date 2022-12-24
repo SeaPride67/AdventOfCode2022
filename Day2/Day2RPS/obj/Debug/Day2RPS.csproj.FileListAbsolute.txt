@@ -1,0 +1,7 @@
+C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day2\Day2RPS\bin\Debug\Day2RPS.exe.config
+C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day2\Day2RPS\bin\Debug\Day2RPS.exe
+C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day2\Day2RPS\bin\Debug\Day2RPS.pdb
+C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day2\Day2RPS\obj\Debug\Day2RPS.csproj.AssemblyReference.cache
+C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day2\Day2RPS\obj\Debug\Day2RPS.csproj.CoreCompileInputs.cache
+C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day2\Day2RPS\obj\Debug\Day2RPS.exe
+C:\Users\CoreyPrideaux\source\repos\AdventOfCode2022\Day2\Day2RPS\obj\Debug\Day2RPS.pdb
